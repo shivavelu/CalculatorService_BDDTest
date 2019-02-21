@@ -1,0 +1,4 @@
+addUrl=http://localhost:8080/Add
+subtraactUrl=http://localhost:8080/Subtract
+multiplyUrl=http://localhost:8080/Multiply
+divideUrl=http://localhost:8080/Divide

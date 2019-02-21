@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+	<configuration>
+		<encoding>UTF-8</encoding>
+		<documentTitle>Calculator Service Verification Report</documentTitle>
+		<reportName>Calculator-Service-Verification-Report</reportName>
+		<reportHeadline>v.10</reportHeadline>
+	</configuration>
+</extentreports>
